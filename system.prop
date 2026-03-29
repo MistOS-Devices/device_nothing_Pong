@@ -3,3 +3,12 @@ ro.camerax.extensions.enabled=true
 log.tag.CHIUSECASE=ERROR
 vendor.camera.aux.packagelist=org.lineageos.aperture,com.instagram.android,com.snapchat.android,com.nothing.camera
 persist.vendor.camera.privapp.list=com.nothing.camera
+
+ro.mist.display=1080 x 2412 , 120 hz
+ro.mist.battery=4700mah
+ro.mist.soc=Snapdragon®  8+ Gen 1 (4 nm)
+ro.mist.camera=50MP+50MP
+ro.mist.front=32MP
+ro.mist.platform=SM8475
+ro.mist.screen=6.7' LTPO OLED
+ro.mist.device.name=Nothing phone 2

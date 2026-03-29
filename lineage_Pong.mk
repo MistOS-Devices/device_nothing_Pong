@@ -30,3 +30,12 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=Pong \
     SystemDevice=Pong \
     SystemName=Pong
+
+
+#flags
+TARGET_USES_MINI_GAPPS := true
+TARGET_ENABLE_BLUR := true
+TARGET_SUPPORTS_QUICK_TAP := true
+MISTOS_MAINTAINER := Butterfingers
+WITH_GMS := true
+BYPASS_CHARGE_SUPPORTED := true
