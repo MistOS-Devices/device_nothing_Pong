@@ -24,12 +24,6 @@
     "remote": "github-non-los"
   },
   {
-    "repository": "Pong-Development/hardware_qcom-caf_sm8450_display",
-    "target_path": "hardware/qcom-caf/sm8450/display",
-    "branch": "16.2",
-    "remote": "github-non-los"
-  },
-  {
   "repository": "Pong-Development/packages_apps_ParanoidGlyph",
     "target_path": "packages/apps/ParanoidGlyphPhone2",
     "branch": "16.2",
@@ -45,6 +39,6 @@
     "repository": "Pong-Development/hardware_dolby",
     "target_path": "hardware/dolby",
     "branch": "16",
-    "remote": "github"
+    "remote": "github-non-los"
 }
 ]
