@@ -8,7 +8,7 @@
   {
     "repository": "Pong-Development/kernel_nothing_sm8475",
     "target_path": "kernel/nothing/sm8475",
-    "branch": "16.",
+    "branch": "16",
     "remote": "github-non-los"
   },
   {
