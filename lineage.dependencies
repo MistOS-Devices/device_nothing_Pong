@@ -26,7 +26,7 @@
   {
   "repository": "Pong-Development/packages_apps_ParanoidGlyph",
     "target_path": "packages/apps/ParanoidGlyphPhone2",
-    "branch": "16.2",
+    "branch": "16",
     "remote": "github-non-los"
   },
   {
