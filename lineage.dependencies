@@ -45,6 +45,6 @@
     "repository": "Pong-Development/hardware_dolby",
     "target_path": "hardware/dolby",
     "branch": "16",
-    "remote": "github-non-los"
+    "remote": "github"
 }
 ]
